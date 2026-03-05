@@ -11,3 +11,19 @@ Purpose:
 - Document learning journey
 
 Created by Dr. Garima Mahendru
+# AI ML Trainer Repository
+
+
+1. Machine learning concept notes
+2. Mathematical intuition
+3. Teaching explanations
+4. Python demonstrations
+5. Real-world use cases (especially telecom)
+
+Structure:
+
+01-Foundations
+02-Regression
+03-Data Preparation
+04-Demos
+05-Telecom Use Cases
