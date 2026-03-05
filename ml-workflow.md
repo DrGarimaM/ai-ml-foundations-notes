@@ -73,3 +73,24 @@ Explain the workflow using a simple real-world example such as predicting house 
 Ask learners:
 - Why can't we directly train a model on raw data?
 - Why do we need separate training and testing datasets?
+  ## ML workflow is very similar to a research methodology:
+
+Research Problem → Data → Method → Experiment → Evaluation → Publication
+Problem Definition
+        ↓
+Data Collection
+        ↓
+Data Preparation
+        ↓
+Model Training
+        ↓
+Model Evaluation
+        ↓
+Deployment
+## Machine Learning is not just training a model.
+
+It is a structured process that starts from data and ends with a usable system.
+
+A simplified ML workflow looks like this:
+
+Problem → Data → Preparation → Model → Evaluation → Deployment
